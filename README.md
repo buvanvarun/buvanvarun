@@ -1,6 +1,5 @@
-  ### Hi there , I'm Buvan Varun aka Buvan 👋
+### Hi there , I'm Buvan Varun aka Buvan 👋
   
----
 
 [![Buvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=buvanvarun&show_icons=true&theme=blue-green&hide)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -11,7 +10,6 @@
 - 🥅 2021 Goals : Would love some greenery 💚!
 - ⚡ Fun fact: I created this readme to have a readme , because it looked cool 😁
 
-<br/>
 
 ### Languages and Tools:
 
