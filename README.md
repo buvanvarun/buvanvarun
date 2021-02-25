@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there , I'm Buvan Varun aka Buvan 👋
 
-<!--
-**buvanvarun/buvanvarun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>]
 
-Here are some ideas to get you started:
+[![Buvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=buvanvarun&show_icons=true&theme=blue-green&hide)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Professional Procastinator - for real !
+- 🌱 I’m currently learning a lot of things
+- 🤔 I’m looking for help on dealing with imposter syndrome 😢
+- 💬 Ask me about Tech, Stocks, Startups.
+- 🥅 2021 Goals : Would love some greenery 💚!
+- ⚡ Fun fact: I created this readme to have a readme , because it looked cool 😁
+
+<br/>
+
+[https://twitter.com/buvan_varun][Twitter]
+
