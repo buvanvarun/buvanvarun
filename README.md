@@ -1,7 +1,7 @@
 ### Hi there , I'm Buvan Varun aka Buvan 👋
   
 
-[![Buvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=buvanvarun&show_icons=true&theme=blue-green&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Buvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=buvanvarun&show_icons=true&theme=blue-green&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats) -->
 
 - 🔭 Professional Procastinator - for real !
 - 🌱 I’m currently learning a lot of things
