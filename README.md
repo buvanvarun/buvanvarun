@@ -8,7 +8,6 @@
 - 🤔 I’m looking for help on dealing with imposter syndrome 😢
 - 💬 Ask me about Tech, Stocks, Startups 
 - 🥅 2021 Goals : Would love some greenery 💚!
-- 🎯 March 2021 goals : Algorithmetic trading , Portfolio website , Full stack application (2 months)
 - ⚡ Fun fact: I created this readme to have a readme , because it looked cool 😁
 
 
