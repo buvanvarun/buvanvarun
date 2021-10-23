@@ -4,11 +4,8 @@
 <!-- [![Buvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=buvanvarun&show_icons=true&theme=blue-green&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats) -->
 
 - 🔭 Professional Procastinator - for real !
-- 🌱 I’m currently learning a lot of things
 - 🤔 I’m looking for help on dealing with imposter syndrome 😢
 - 💬 Ask me about Tech, Stocks, Startups 
-- 🥅 2021 Goals : Would love some greenery 💚!
-- ⚡ Fun fact: I created this readme to have a readme , because it looked cool 😁
 
 
 ### Languages and Tools:
@@ -37,5 +34,5 @@
 
 ### Socials :
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/buvan_varun?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=buvan_varun)
+[![Twitter Follow](https://img.shields.io/twitter/follow/buvan_varun?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=buvanvarun)
 
